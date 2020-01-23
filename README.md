@@ -4,10 +4,10 @@
 This exercise is base on the Pythagoras theorem and trigonometric identities:
  <div class="row">
   <div class="column">
-    <img align="center" width="100" height="100" src="https://i.imgur.com/4hoInkK.png">
+    <img width="200" src="https://i.imgur.com/4hoInkK.png">
   </div>
   <div class="column">
-    <img align="center" width="100" height="100" src="https://study.com/cimages/multimages/16/926405-ids4246826883428030385.png">
+    <img width="200" src="https://study.com/cimages/multimages/16/926405-ids4246826883428030385.png">
   </div>
 </div> 
 
