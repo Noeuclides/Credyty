@@ -3,7 +3,7 @@
 ### 1. Pythagorean Triplet:
 This exercise is base on the Pythagoras theorem and trigonometric identities:
  <div class="row">
-  <div class="column" markdown="1!>
+  <div class="column" markdown="1">
     <img width="200" src="https://i.imgur.com/4hoInkK.png">
   </div>
   <div class="column" markdown="1">
