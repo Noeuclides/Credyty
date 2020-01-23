@@ -16,10 +16,6 @@ def pitagorasTriplet():
             #Check for Pythagoras Theorem
             if a ** 2 + b ** 2 == c ** 2:
                 if a + b + c == 1000:
-                    print("a = {}".format(a))
-                    print("b = {}".format(b))
-                    print("c = {}".format(c))
-                    print("Triplet Angle: {}".format(angle))
                     print("{}^2 + {}^2 = {}^2 => {} + {} = {}".format(a, b, c, a**2, b**2, c**2))                    
                     return("Product a*b*c = {}".format(a*b*c))
         
