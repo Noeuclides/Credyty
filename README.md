@@ -3,7 +3,7 @@
 ### 1. Pythagorean Triplet:
 This exercise is base on the Pythagoras theorem and trigonometric identities:
 <div align="center" class="column">
-    <img width="200" src="https://i.imgur.com/4hoInkK.png"><img width="200" src="https://study.com/cimages/multimages/16/926405-ids4246826883428030385.png">
+    <img width="200" src="https://i.imgur.com/4hoInkK.png"><img width="400" src="https://study.com/cimages/multimages/16/926405-ids4246826883428030385.png">
 </div>
 
 So "a" and "b" was moved in function of "c" and the 'angle'.
