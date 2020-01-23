@@ -15,11 +15,12 @@ and the angle didn't start at 1 because with the rounded function b is always eq
 
 The code was made with python3 and in order to use trigonometric identities It was needed the math library.
 
-    ```sh
-    $ python3 pythagoras.py
-    ```
+```sh
+$ python3 pythagoras.py
+```
 
-Here is a great source to understand more deeply the theory. -> https://www.youtube.com/watch?v=QJYmyhnaaek
+Here is a great source to understand more deeply the theory: 
+-> https://www.youtube.com/watch?v=QJYmyhnaaek
 
 
 
